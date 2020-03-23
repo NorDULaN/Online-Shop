@@ -1,0 +1,340 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="55477c71-2e55-4545-9629-350caa5384d9" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../Assignment" beforeDir="false" afterPath="$PROJECT_DIR$/../Assignment" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="os_t3@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="os_t3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="os_t3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="os_t3: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="os_t3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="os_t3: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="os_t3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="os_t3: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="os_t3@localhost" type="feb32156:DbDataSourceImpl" />
+        <item name="databases" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="os_t3: database" type="162271b6:PgImplModel$Database" />
+        <item name="schemas" type="d4e8921:DatabaseStructure$FamilyGroup" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="tables" type="d4e8921:DatabaseStructure$FamilyGroup" />
+      </path>
+      <path>
+        <item name="Database" type="3277223f:DatabaseStructure$DbRootGroup" />
+        <item name="PostgreSQL - postgres@localhost" type="feb32156:DbDataSourceImpl" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="DjangoConsoleOptions" custom-start-script="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)">
+    <option name="myCustomStartScript" value="import sys; print('Python %s on %s' % (sys.version, sys.platform))&#10;import django; print('Django %s' % django.get_version())&#10;sys.path.extend([WORKING_DIR_AND_PYTHON_PATHS])&#10;if 'setup' in dir(django): django.setup()&#10;import django_manage_shell; django_manage_shell.run(PROJECT_ROOT)" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="C:\git\BootCamp_Projects\Online_shop\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="InvalidFacetManager">
+    <ignored-facets>
+      <facet id="Online_shop/invalid/Django" />
+    </ignored-facets>
+  </component>
+  <component name="ProjectId" id="1WOH4dMn61yAHr7oDpbNGkTKV1t" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Assignment" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.uml" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\saide\PycharmProjects\Online_shop\OnlineShopProject\loginapp\templates" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\saide\PycharmProjects\Online_shop\OnlineShopProject\static\pic" />
+      <recent name="C:\Users\saide\PycharmProjects\Online_shop\OnlineShopProject\static" />
+      <recent name="C:\Users\saide\PycharmProjects\Online_shop\OnlineShopProject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.manage">
+    <configuration name="manage" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="Online_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\saide\.virtualenvs\Online_shop-7TEzfEvG\Scripts\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnlineShopProject" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnlineShopProject/manage.py" />
+      <option name="PARAMETERS" value="runserver" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tradeapp" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Online_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnlineShopProject" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnlineShopProject/tradeapp" />
+      <option name="PARAMETERS" value="runserver 8000" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="views" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="Online_shop" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/OnlineShopProject/tradeapp" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/OnlineShopProject/tradeapp/views.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.manage" />
+      <item itemvalue="Python.tradeapp" />
+      <item itemvalue="Python.views" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.manage" />
+        <item itemvalue="Python.views" />
+        <item itemvalue="Python.tradeapp" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:os_t3@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="root:os_t3@localhost" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="com.intellij.database.console.session.MessageBusSession@20f138" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="55477c71-2e55-4545-9629-350caa5384d9" name="Default Changelist" comment="" />
+      <created>1579013531177</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1579013531177</updated>
+      <workItem from="1580652146600" duration="1205000" />
+      <workItem from="1580655767199" duration="885000" />
+      <workItem from="1581300383053" duration="357000" />
+      <workItem from="1581300856546" duration="9014000" />
+      <workItem from="1581403762132" duration="1263000" />
+      <workItem from="1581405271895" duration="17734000" />
+      <workItem from="1584111109755" duration="2777000" />
+      <workItem from="1584119319087" duration="407000" />
+      <workItem from="1584119821914" duration="99000" />
+      <workItem from="1584119932824" duration="699000" />
+      <workItem from="1584880458574" duration="763000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="359" y="0" key="#Unnamed" timestamp="1580656029675">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="359" y="0" key="#Unnamed/0.0.1280.760@0.0.1280.760" timestamp="1580656029675" />
+    <state x="94" y="36" width="1092" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1581417765691">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="94" y="36" width="1092" height="721" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.760@0.0.1280.760" timestamp="1581417765691" />
+    <state x="397" y="184" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584111158826">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="397" y="184" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1280.760@0.0.1280.760" timestamp="1584111158826" />
+    <state x="537" y="168" key="#xdebugger.evaluate" timestamp="1580713368001">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="537" y="168" key="#xdebugger.evaluate/0.0.1280.760@0.0.1280.760" timestamp="1580713368001" />
+    <state x="374" y="159" key="EnvironmentVariablesDialog" timestamp="1580656433268">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="374" y="159" key="EnvironmentVariablesDialog/0.0.1280.760@0.0.1280.760" timestamp="1580656433268" />
+    <state x="420" y="136" key="FileChooserDialogImpl" timestamp="1584881286579">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="136" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1584881286579" />
+    <state width="845" height="374" key="GridCell.Tab.0.bottom" timestamp="1581428911980">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="845" height="374" key="GridCell.Tab.0.bottom/0.0.1280.760@0.0.1280.760" timestamp="1581428911980" />
+    <state width="845" height="374" key="GridCell.Tab.0.center" timestamp="1581428911980">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="845" height="374" key="GridCell.Tab.0.center/0.0.1280.760@0.0.1280.760" timestamp="1581428911980" />
+    <state width="845" height="374" key="GridCell.Tab.0.left" timestamp="1581428911979">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="845" height="374" key="GridCell.Tab.0.left/0.0.1280.760@0.0.1280.760" timestamp="1581428911979" />
+    <state width="845" height="374" key="GridCell.Tab.0.right" timestamp="1581428911980">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="845" height="374" key="GridCell.Tab.0.right/0.0.1280.760@0.0.1280.760" timestamp="1581428911980" />
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom" timestamp="1581149170666">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.bottom/0.0.1280.760@0.0.1280.760" timestamp="1581149170666" />
+    <state width="1259" height="236" key="GridCell.Tab.1.center" timestamp="1581149170665">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.center/0.0.1280.760@0.0.1280.760" timestamp="1581149170665" />
+    <state width="1259" height="236" key="GridCell.Tab.1.left" timestamp="1581149170665">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.left/0.0.1280.760@0.0.1280.760" timestamp="1581149170665" />
+    <state width="1259" height="236" key="GridCell.Tab.1.right" timestamp="1581149170666">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="1259" height="236" key="GridCell.Tab.1.right/0.0.1280.760@0.0.1280.760" timestamp="1581149170666" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1581303782914">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1280.760@0.0.1280.760" timestamp="1581303782914" />
+    <state x="164" y="47" key="SettingsEditor" timestamp="1581303250554">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="164" y="47" key="SettingsEditor/0.0.1280.760@0.0.1280.760" timestamp="1581303250554" />
+    <state x="400" y="0" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog" timestamp="1581418451563">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="400" y="0" key="com.intellij.database.actions.ToolActions$ScriptingActionBase$MyDatabaseScriptDialog/0.0.1280.760@0.0.1280.760" timestamp="1581418451563" />
+    <state x="348" y="209" key="com.intellij.ide.util.TipDialog" timestamp="1581326824471">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="348" y="209" key="com.intellij.ide.util.TipDialog/0.0.1280.760@0.0.1280.760" timestamp="1581326824471" />
+    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup" timestamp="1581302962731">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="303" y="81" width="672" height="678" key="search.everywhere.popup/0.0.1280.760@0.0.1280.760" timestamp="1581302962731" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="type(good_obj)" language="Python" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Online_shop$manage.coverage" NAME="manage Coverage Results" MODIFIED="1581416977549" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/OnlineShopProject" />
+  </component>
+</project>
